@@ -1,13 +1,16 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
+    "title": "millennials2018",
+    "description": "Graduate with respect and dignity.",
     "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "url": "https://millennials2018.netlify.app/",
+    "repo": "https://github.com/millennials2018/webring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Aggelos Varotsis",
+            "url": "https://github.com/Drexion"
+            
+            "name": "Polidoros Stefanidis",
+            "url": "https://github.com/p18stef"
         }
     ]
 }
